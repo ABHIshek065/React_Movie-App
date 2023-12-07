@@ -41,7 +41,7 @@ const serachQueryHandler = (event)=>{
         <ContentWrapper>
       
       <div className="heroBannerContent">
-        <span className='title'>Welcome.</span>
+        <span className='title'>Welcome!</span>
         <span className='subTitle'>Millons of movies, TV shows and people to discover. Explore now</span>
         <div className="searchInput">
           <input type="text " placeholder='Seach for a movie or tv show....'
